@@ -317,4 +317,5 @@ For regression, use a regressor, regression metrics, and generally omit `stratif
 
 If you remember just one distinction: **training learns preprocessing statistics; inference reuses them.**
 
-**Previous:** [Part 1 — EDA](part1_eda.md).
+**Previous:** [Part 1 — EDA](part1_eda.md).<br>
+**Next:** [Part 3 — Model Selection and Hyperparameter Tuning](part3_model_selection.md).
